@@ -37,4 +37,4 @@ This project analyzes Nykaa's marketing campaign data using SQL to generate busi
 Nykaa Campaign Marketing Dataset
 
 ## Author
-Your Name
+Khushi Kathiwale
